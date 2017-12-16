@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\VaishaliGitDemos\MyGitJavaProject\.metadata\.plugins\org.eclipse.jdt.core
+1435125242.index
