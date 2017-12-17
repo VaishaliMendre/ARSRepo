@@ -1,6 +1,7 @@
 *.[oa]
 *~
-MyGitJavaP/*.project
-MyGitJavaP/.settings/
+MyJavaProject/*.project
+MyJavaProject/*.classpath
+MyJavaProject/.settings/
 .metadata/
 RemoteSystemsTempFiles/
